@@ -59,7 +59,7 @@ Access must be justified, proportionate, and aligned with the individual’s rol
 An authorised individual submits an endorsement request by email to:
 
 ```text
-admin@informationexchangestandard.org
+administrator@informationexchangestandard.org
 ```
 
 The endorsement request must be submitted by a Domain Working Group Chair or Domain Working Group Representative. The mailbox is configured to accept incoming mail only from Steering Group Voting Members, as they are the only individuals authorised to provide endorsement.
@@ -151,7 +151,7 @@ The confirmation should:
 * identify the relevant team or repositories where appropriate
 * state the access review date
 * provide any relevant guidance or links
-* be copied to `admin@informationexchangestandard.org`
+* be copied to `administrator@informationexchangestandard.org`
 
 This ensures transparency and shared awareness of the access decision.
 
