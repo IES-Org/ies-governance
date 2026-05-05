@@ -16,6 +16,8 @@ Common Ontology Maintainers are appointed to provide technical stewardship of IE
 
 Common Ontology Maintainers share collective responsibility for IES Top and IES Core. Individual maintainers may take lead responsibility for particular areas of expertise, but lead responsibilities do not create exclusive ownership of any part of IES Top or IES Core.
 
+The Common Ontology Maintainer group must include at least one public sector representative.
+
 ---
 
 ## Eligibility
@@ -57,17 +59,21 @@ Common Ontology Maintainers are appointed by majority vote of the Steering Group
 
 A candidate may be proposed where there is a clear need for additional Common Ontology Maintainer capacity and where the candidate has the required technical expertise and practical GitHub capability.
 
-Appointments should consider both the suitability of the individual candidate and the collective capability of the Common Ontology Maintainer group.
+Appointments should consider both the suitability of the individual candidate and the collective capability and composition of the Common Ontology Maintainer group.
 
 The appointment should be documented in the relevant Steering Group records and reflected in [Current Common Ontology Maintainers](./current-common-ontology-maintainers.md).
 
 ---
 
-## Number of Common Ontology Maintainers
+## Number and Composition of Common Ontology Maintainers
 
 The number of Common Ontology Maintainers should remain proportionate to the needs of IES.
 
 The role is intentionally restricted because it carries responsibility for IES Top and IES Core. The number of Common Ontology Maintainers should be sufficient to provide resilience, continuity, effective review, and practical repository maintenance, but not so large that accountability or technical coherence is weakened.
+
+The Common Ontology Maintainer group must include at least one public sector representative.
+
+The composition of the group should provide an appropriate balance of technical expertise, practical GitHub capability, public sector understanding, and continuity.
 
 ---
 
@@ -155,6 +161,7 @@ A review may consider:
 * whether the current maintainers continue to meet the technical expectations of the role
 * whether the current maintainers continue to meet the GitHub capability expectations of the role
 * whether the group collectively has the right mix of expertise
+* whether the group continues to include at least one public sector representative
 * whether access and permissions remain appropriate
 * whether additional appointments are required
 * whether any maintainer should step down or be replaced
@@ -178,6 +185,8 @@ A Common Ontology Maintainer may be removed or replaced by majority vote of the 
 * materially fail to act in accordance with the IES Charter or governance processes
 
 Access and permissions must be reviewed when a Common Ontology Maintainer leaves the role.
+
+If removal, replacement, or resignation would result in there being no public sector representative among the Common Ontology Maintainers, the Steering Group must address the vacancy or composition issue as part of the same governance route.
 
 ---
 
