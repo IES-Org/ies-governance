@@ -54,47 +54,7 @@ Changes to IES Common are not governed directly by individual Domain Working Gro
 
 ## Roles within a Domain Working Group
 
-Each Domain Working Group should have:
-
-* a Domain Working Group Chair
-* a Domain Working Group Representative
-* Domain Working Group members
-
-Only official role-holders are published in this governance repository. Full Domain Working Group membership is not published centrally.
-
----
-
-## Chair
-
-The Domain Working Group Chair leads the Domain Working Group.
-
-The Chair is responsible for supporting effective operation of the Domain Working Group, coordinating domain activity, and ensuring that the Domain Working Group operates within the IES governance framework.
-
-The Chair is also a Voting Member of the Steering Group.
-
-The appointment, replacement, or removal of a Domain Working Group Chair is managed by the relevant Domain Working Group through its own agreed arrangements.
-
----
-
-## Representative
-
-The Domain Working Group Representative supports the Domain Working Group’s participation in Steering Group activity.
-
-The Representative is appointed by the Domain Working Group Chair and is a Voting Member of the Steering Group.
-
-The Representative role provides resilience and continuity for the Domain Working Group’s participation in Steering Group activity. The Chair may appoint someone with complementary expertise or availability.
-
-A Domain Working Group Chair may replace their Representative at any point.
-
----
-
-## Members
-
-Domain Working Group members contribute domain expertise, review material, support development activity, and participate in Domain Working Group discussions.
-
-Members may include representatives from public sector organisations, private sector organisations, academia, or other relevant communities, depending on the domain and the needs of the work.
-
-Full membership of Domain Working Groups is not published centrally in this governance repository.
+Information on roles within a Domain Working Group is available in [Domain Working Group Membership](./membership.md)
 
 ---
 
@@ -109,7 +69,6 @@ The formation of a Domain Working Group should identify:
 * the route for appointing a Representative
 * the intended repositories or development areas
 * any relationship with existing Domain Working Groups
-* any immediate dependencies on IES Common
 
 New Domain Working Groups should be recorded in [Active Domain Working Groups](./active-groups.md) once established.
 
