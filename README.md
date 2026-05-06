@@ -171,7 +171,7 @@ IES repositories are organised into four broad categories:
    The single Top-level ontology repository.
 
 2. **IES Core**
-   The single core ontology repository.
+   The single Core ontology repository.
 
 3. **Domain-driven repositories**
    Repositories managed through domain-driven development, normally aligned to a specific domain.
