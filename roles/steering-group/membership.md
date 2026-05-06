@@ -38,8 +38,6 @@ Voting Members are expected to represent the position and interests of their Dom
 
 ## Domain Working Group Chairs
 
-Domain Working Group Chairs are Voting Members of the Steering Group.
-
 The appointment, replacement, or removal of a Domain Working Group Chair is managed by the relevant Domain Working Group through its own agreed arrangements.
 
 The Steering Group does not appoint Domain Working Group Chairs.
@@ -48,9 +46,7 @@ The Steering Group does not appoint Domain Working Group Chairs.
 
 ## Domain Working Group Representatives
 
-Each Domain Working Group Chair may appoint one Domain Working Group Representative to serve as a Voting Member of the Steering Group.
-
-Domain Working Group Representatives are Voting Members of the Steering Group.
+Each Domain Working Group Chair may appoint one Domain Working Group Representative.
 
 The Representative role provides resilience and continuity for the Domain Working Group’s participation in Steering Group activity. It also allows the Chair to appoint someone with complementary expertise or availability.
 
@@ -107,17 +103,9 @@ The Chair is responsible for supporting the effective and impartial operation of
 
 Voting Members join the Steering Group through their Domain Working Group role.
 
-A Domain Working Group Chair becomes a Voting Member when they become Chair of an active Domain Working Group.
-
-A Domain Working Group Representative becomes a Voting Member when they are appointed by the relevant Domain Working Group Chair.
-
 ### Advisory Members
 
 Advisory Members are appointed by majority vote of the Voting Members.
-
-Candidates for Advisory Member positions should be put forward for consideration by the Steering Group. To be eligible, a candidate must be a member of an active Domain Working Group and have the relevant technical expertise to advise on ontology development and the technical integrity of IES.
-
-There are a maximum of two Advisory Member positions. The two positions must not be filled by people from the same Domain Working Group.
 
 ### Steering Group Chair
 
@@ -152,8 +140,6 @@ Voting Members should be able to represent the position and interests of their D
 A Voting Member’s term is linked to their Domain Working Group role.
 
 A Domain Working Group Chair remains a Voting Member while they remain Chair of an active Domain Working Group. A Domain Working Group Representative remains a Voting Member while they remain appointed by the relevant Domain Working Group Chair.
-
-The Steering Group does not determine Domain Working Group leadership or the appointment of Domain Working Group Representatives.
 
 Advisory Member appointments should be reviewed periodically to ensure that the Steering Group continues to have access to appropriate technical expertise.
 
