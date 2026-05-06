@@ -44,44 +44,7 @@ The Steering Group should normally consider issues at the level of principle, go
 
 ## Composition
 
-The Steering Group consists of voting members and advisory members.
-
-### Voting Members
-
-Voting members are responsible for formal decision-making within the Steering Group.
-
-Voting members are drawn from Domain Working Groups. Each Domain Working Group is represented by:
-
-* the Domain Working Group Chair
-* one Domain Working Group Representative
-
-Each voting member has one vote.
-
-Current voting members are listed in [Current Voting Members](./voting-members.md).
-
-### Advisory Members
-
-Advisory members participate in Steering Group discussions but do not hold voting rights.
-
-Advisory members are appointed for their technical expertise in ontology development and their ability to advise on the technical integrity of IES. They should have a strong understanding of ontology engineering, 4D modelling principles, IES Top, IES Core, and the implications of proposed changes for IES Common and domain-driven extensions.
-
-Advisory members provide technical advice, identify implications for IES Common and domain-driven development, and support informed decision-making by the Steering Group.
-
-Current advisory members are listed in [Current Advisory Members](./advisory-members.md).
-
----
-
-## Steering Group Chair
-
-The Steering Group is led by a Chair.
-
-The Chair is responsible for supporting effective and impartial operation of the Steering Group. This includes organising meetings, managing agendas, facilitating discussion, supporting consensus, and ensuring that decisions and relevant actions are documented.
-
-The Steering Group Chair must be a current Domain Working Group Chair and must be a public sector representative.
-
-The Chair continues to represent their Domain Working Group as a voting member of the Steering Group.
-
-Detailed eligibility, appointment, and term arrangements are defined in [Steering Group Membership](./membership.md).
+The Steering Group consists of voting members and advisory members, details of which are set out in [Steering Group Membership](./membership.md).
 
 ---
 
