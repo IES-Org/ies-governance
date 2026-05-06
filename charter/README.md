@@ -26,7 +26,7 @@ Governance provides the structures, roles, and processes through which changes t
 
 This Charter applies to the governance arrangements for IES, the Information Exchange Standard.
 
-It establishes the basis on which IES is governed, managed, developed, maintained, and released. It covers the governance groups, individual roles, responsibilities, contribution routes, decision-making arrangements, and processes that support the IES initiative.
+It covers the governance groups, individual roles, responsibilities, contribution routes, decision-making arrangements, and processes that support the IES initiative.
 
 IES governance includes, for example, the governance of:
 
@@ -123,7 +123,7 @@ In practice, this means:
 
 The IES GitHub organisation is the authoritative source for IES governance documentation, approved development activity, ontology content, and official releases.
 
-This provides a single reference point for the current approved state of IES. Other copies, forks, publications, presentations, or derived materials may support discussion, collaboration, or communication, but the authoritative version of IES is the material approved and published through the IES GitHub organisation and its governance processes.
+This provides a single reference point for the current approved state of IES. Other copies, forks, publications, presentations, or derived materials may support discussion, collaboration, or communication.
 
 ---
 
