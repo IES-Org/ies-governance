@@ -75,7 +75,7 @@ An offboarding request may be submitted by one of the following:
 
 * a Domain Working Group Chair
 * a Domain Working Group Representative
-* a Steering Group Chair
+* the Steering Group Chair
 * a Platform and Communications role-holder
 * an IES GitHub Organisation Administrator
 
