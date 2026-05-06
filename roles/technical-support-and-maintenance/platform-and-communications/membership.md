@@ -188,13 +188,13 @@ A Platform and Communications role-holder may step down from the role at any poi
 A Platform and Communications role-holder may be removed or replaced by majority vote of the Steering Group where they:
 
 * are no longer able to perform the role
-* no longer require the role
 * no longer meet the expectations of the role
-* no longer require the access or permissions associated with the role
 * are unable to support or coordinate required operational funding where that responsibility is attached to their role
 * are unable to participate for a sustained period
 * have a conflict of interest that cannot be managed appropriately
 * materially fail to act in accordance with the IES Charter or governance processes
+
+A Platform and Communications role-holder may also be removed by majority vote of the Steering Group if it is believed that the role being fulfilled is no longer required.
 
 Access and permissions must be reviewed when a Platform and Communications role-holder leaves the role.
 
