@@ -99,14 +99,6 @@ Where:
 * `[responsible-domain]` identifies the responsible Domain Working Group
 * `[repository-purpose]` identifies the content, extension, package, or purpose of the repository
 
-Examples:
-
-```text
-ies-environment-[repository-purpose]
-ies-water-[repository-purpose]
-ies-transport-[repository-purpose]
-```
-
 The exact repository purpose should be chosen to make the content of the repository clear.
 
 ---
