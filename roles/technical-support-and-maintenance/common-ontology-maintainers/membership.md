@@ -177,12 +177,13 @@ A Common Ontology Maintainer may step down from the role at any point.
 A Common Ontology Maintainer may be removed or replaced by majority vote of the Steering Group where they:
 
 * are no longer able to perform the role
-* no longer require the role
 * no longer meet the technical expectations of the role
 * no longer meet the GitHub capability expectations of the role
 * are unable to participate for a sustained period
 * have a conflict of interest that cannot be managed appropriately
 * materially fail to act in accordance with the IES Charter or governance processes
+
+A Common Ontology Maintainer may also be removed by majority vote of the Steering Group if it is believed that the role being fulfilled is no longer required.
 
 Access and permissions must be reviewed when a Common Ontology Maintainer leaves the role.
 
