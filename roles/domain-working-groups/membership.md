@@ -84,7 +84,6 @@ The formation of a Domain Working Group should identify:
 * the initial Chair
 * the approach for appointing the Representative
 * the intended repositories, development areas, or outputs
-* any dependencies on IES Common
 * any relationship with existing Domain Working Groups
 
 Once established, the Domain Working Group should be recorded in [Active Domain Working Groups](./active-groups.md).
@@ -107,7 +106,7 @@ Where a Representative is appointed or replaced, the Steering Group voting membe
 
 ## Publication of Membership Information
 
-This governance repository publishes official Domain Working Group role-holders, not full Domain Working Group membership.
+This governance repository publishes official Domain Working Group role-holders.
 
 The public record includes:
 
