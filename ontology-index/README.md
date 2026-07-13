@@ -41,7 +41,7 @@ IES Top is the single top-level ontology repository.
 
 It is maintained in the `ies-top` repository and provides the highest-level ontology structures used across IES.
 
-IES Top is maintained by the Common Ontology Maintainers.
+IES Top is maintained by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers.
 
 ---
 
@@ -49,27 +49,9 @@ IES Top is maintained by the Common Ontology Maintainers.
 
 IES Core is the single core ontology repository.
 
-It is maintained in the `ies-core` repository and provides common ontology structures used across domain-driven development.
+It is maintained in the `ies-core` repository and provides Layer 0 and Layer 1 ontology structures used across domain-driven development.
 
-IES Core is maintained by the Common Ontology Maintainers.
-
----
-
-## IES Common
-
-IES Common is the conceptual grouping of IES Top and IES Core.
-
-There is no separate IES Common repository. IES Common refers collectively to the `ies-top` and `ies-core` repositories and the shared ontology foundation they provide.
-
-Changes to IES Top or IES Core may affect multiple domains and are therefore subject to stricter governance.
-
-Common Ontology Maintainer information is maintained centrally in the governance repository.
-
-More information is available in:
-
-* [IES Common](./ies-common.md)
-* [Common Ontology Maintainers](../roles/technical-support-and-maintenance/common-ontology-maintainers/overview.md)
-* [Current Common Ontology Maintainers](../roles/technical-support-and-maintenance/common-ontology-maintainers/current-common-ontology-maintainers.md)
+IES Core is maintained by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers.
 
 ---
 
@@ -124,12 +106,11 @@ Users and contributors should use the repository-level documentation for the rep
 
 For general issues or proposed changes, the preferred route is normally through GitHub issues or pull requests in the relevant repository. For security matters, contributors should follow the relevant repository security process.
 
-Where a question relates to a domain, the relevant Domain Working Group should normally be the first governance route. Where a question relates to IES Top or IES Core, the Common Ontology Maintainers are the relevant technical stewardship route.
+Where a question relates to a domain, the relevant Domain Working Group should normally be the first governance route. Where a question relates to IES Top or IES Core, the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers are the relevant technical stewardship route.
 
 ---
 
 ## Contents
 
-* [IES Common](./ies-common.md)
 * [Domain Repositories](./domain-repositories.md)
 * [Administrative Repositories](./administrative-repositories.md)
