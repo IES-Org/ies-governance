@@ -62,7 +62,7 @@ These may include:
 * changes to the IES Charter
 * changes to governance roles or responsibilities
 * changes to Steering Group decision-making rules
-* changes to Common Ontology Maintainer membership rules
+* changes to L0 or L1 Ontology Maintainer membership rules
 * changes to Platform and Communications responsibilities
 * changes to public record requirements
 * changes to escalation routes
@@ -100,7 +100,7 @@ These may include:
 * changes affecting traceability between conceptual models and implementation artefacts
 * changes requiring migration guidance or compatibility notes
 
-Changes affecting IES Top or IES Core should involve the Common Ontology Maintainers. Strategic, cross-domain, high-impact, or disputed matters must be escalated to the Steering Group.
+Changes affecting IES Top or IES Core should involve the L0 or L1 Ontology Maintainers. Strategic, cross-domain, high-impact, or disputed matters must be escalated to the Steering Group.
 
 ### Repository Lifecycle Proposals
 
@@ -134,7 +134,7 @@ These may include:
 * changing mandatory repository file structure
 * changing versioning, changelog, or release note requirements
 
-These proposals may involve Platform and Communications Management, Common Ontology Maintainers, Repository Maintainers, Domain Working Groups, or the Steering Group depending on impact.
+These proposals may involve Platform and Communications Management, L0 or L1 Ontology Maintainers, Repository Maintainers, Domain Working Groups, or the Steering Group depending on impact.
 
 ### Release and Publication Proposals
 
@@ -256,7 +256,7 @@ The appropriate review and decision route depends on the subject and impact of t
 At a high level:
 
 * domain-specific proposals should normally be considered by the relevant Domain Working Group
-* proposals affecting IES Top or IES Core should involve the Common Ontology Maintainers
+* proposals affecting IES Top or IES Core should involve the L0 or L1 Ontology Maintainers
 * repository-specific proposals should involve the relevant repository maintainers
 * platform, access, GitHub organisation, or communications proposals should involve Platform and Communications Management
 * governance, strategic, cross-domain, high-impact, disputed, or exceptional matters should be considered by the Steering Group
@@ -274,7 +274,7 @@ This means that the time required to decide a proposal may depend on:
 * when the proposal is submitted
 * whether the proposal is complete
 * whether further information is needed
-* whether prior review by a Domain Working Group, Common Ontology Maintainers, Platform and Communications Management, or Repository Maintainers is required
+* whether prior review by a Domain Working Group, L0 or L1 Ontology Maintainers, Platform and Communications Management, or Repository Maintainers is required
 * the date of the next relevant Steering Group meeting
 * whether the proposal is urgent
 
