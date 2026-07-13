@@ -2,7 +2,7 @@
 
 Domain Working Groups lead domain-driven development within IES, the Information Exchange Standard.
 
-They provide the subject matter expertise needed to identify domain-specific requirements, develop domain-driven extensions, and support alignment between domain needs and IES Common.
+They provide the subject matter expertise needed to identify domain-specific requirements, develop domain-driven extensions, and support alignment between domain needs and IES Top (Layer 0) and IES Core (Layer 1).
 
 ---
 
@@ -26,7 +26,7 @@ This may include:
 * maintaining domain-specific repositories
 * advising on domain-specific implications of proposed changes
 * contributing to proposals that affect their domain
-* escalating cross-domain, strategic, or IES Common matters to the Steering Group where appropriate
+* escalating cross-domain, strategic, or IES Top (Layer 0) and IES Core (Layer 1) matters to the Steering Group where appropriate
 
 Domain Working Groups operate within the IES governance framework and must follow relevant IES processes for proposals, development, repository management, and release.
 
@@ -36,19 +36,19 @@ Domain Working Groups operate within the IES governance framework and must follo
 
 Domain-driven development refers to the development of IES material for a specific domain.
 
-Domain-driven repositories build from, extend, or align with IES Common. This allows domains to develop material relevant to their own needs while preserving common structures across IES.
+Domain-driven repositories build from, extend, or align with IES Top (Layer 0) and IES Core (Layer 1). This allows domains to develop material relevant to their own needs while preserving common structures across IES.
 
-Domain-driven extensions are governed directly by the relevant Domain Working Group. Where a proposed change has implications for IES Common, cross-domain alignment, or the wider governance model, it should be escalated through the appropriate governance route.
+Domain-driven extensions are governed directly by the relevant Domain Working Group. Where a proposed change has implications for IES Top (Layer 0) and IES Core (Layer 1), cross-domain alignment, or the wider governance model, it should be escalated through the appropriate governance route.
 
 ---
 
-## Relationship with IES Common
+## Relationship with IES Top (Layer 0) and IES Core (Layer 1)
 
-IES Top and IES Core together form IES Common.
+IES Top and IES Core together form IES Top (Layer 0) and IES Core (Layer 1).
 
-IES Common provides the shared foundation used across domain-driven development. Domain Working Groups should ensure that domain-driven extensions remain aligned with IES Common.
+IES Top (Layer 0) and IES Core (Layer 1) provides the shared foundation used across domain-driven development. Domain Working Groups should ensure that domain-driven extensions remain aligned with IES Top (Layer 0) and IES Core (Layer 1).
 
-Changes to IES Common are not governed directly by individual Domain Working Groups. Where a Domain Working Group identifies a required change to IES Common, the change should be proposed through the appropriate process and considered by the Common Ontology Maintainers and, where necessary, the Steering Group.
+Changes to IES Top (Layer 0) and IES Core (Layer 1) are not governed directly by individual Domain Working Groups. Where a Domain Working Group identifies a required change to IES Top (Layer 0) and IES Core (Layer 1), the change should be proposed through the appropriate process and considered by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers and, where necessary, the Steering Group.
 
 ---
 
@@ -90,7 +90,7 @@ Domain Working Groups should resolve domain-specific matters within the Domain W
 
 Escalation may be required where:
 
-* a proposed change affects IES Common
+* a proposed change affects IES Top (Layer 0) and IES Core (Layer 1)
 * a matter has cross-domain implications
 * a dispute cannot be resolved within the Domain Working Group
 * a proposal requires Steering Group decision
