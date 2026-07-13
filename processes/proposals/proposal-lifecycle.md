@@ -48,7 +48,7 @@ A proposal is in Draft while it is being prepared.
 
 At this stage, the proposer should use the [Proposal Template](./proposal-template.md) to describe the proposed change, rationale, expected impact, affected repositories or groups, and decision required.
 
-A Draft proposal may be discussed informally with relevant Domain Working Groups, Common Ontology Maintainers, Platform and Communications Management, Repository Maintainers, or Steering Group members before submission.
+A Draft proposal may be discussed informally with relevant Domain Working Groups, L0 or L1 Ontology Maintainers, Platform and Communications Management, Repository Maintainers, or Steering Group members before submission.
 
 ---
 
@@ -93,7 +93,7 @@ A proposal is Under Review when it is being considered by the relevant people or
 Review may involve:
 
 * the relevant Domain Working Group
-* Common Ontology Maintainers
+* L0 or L1 Ontology Maintainers
 * Repository Maintainers
 * Platform and Communications Management
 * the Steering Group
@@ -101,7 +101,7 @@ Review may involve:
 
 Review should be proportionate to the significance of the proposal.
 
-A proposal affecting IES Top or IES Core should involve the Common Ontology Maintainers. A proposal with strategic, cross-domain, high-impact, disputed, or exceptional implications must be escalated to the Steering Group.
+A proposal affecting IES Top or IES Core should involve the L0 or L1 Ontology Maintainers. A proposal with strategic, cross-domain, high-impact, disputed, or exceptional implications must be escalated to the Steering Group.
 
 ---
 
@@ -158,7 +158,7 @@ Conditions may relate to:
 * implementation sequencing
 * Steering Group approval
 * Domain Working Group review
-* Common Ontology Maintainer review
+* L0 or L1 Ontology Maintainer review
 * Platform and Communications action
 
 Conditions should be documented clearly so that implementation can be checked against them.
