@@ -106,7 +106,7 @@ The maintainer file should identify:
 
 Repository Maintainer information is maintained in the relevant repository, not centrally in the governance repository.
 
-For IES Top and IES Core, the relevant maintainers are the Common Ontology Maintainers. Current Common Ontology Maintainers are recorded centrally in the governance repository, but repository-level maintainer files should still explain how maintenance operates for the specific repository.
+For IES Top and IES Core, the relevant maintainers are the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers. Current IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers are recorded centrally in the governance repository, but repository-level maintainer files should still explain how maintenance operates for the specific repository.
 
 ---
 
@@ -210,11 +210,11 @@ Changes to domain-driven repositories are governed directly by the relevant Doma
 
 ## Development Affecting IES Top or IES Core
 
-IES Top and IES Core are maintained by the Common Ontology Maintainers.
+IES Top and IES Core are maintained by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers.
 
 Changes to IES Top or IES Core require particular care because they may affect multiple domain-driven repositories.
 
-Routine maintenance may be handled by the Common Ontology Maintainers where it does not materially alter the structure, meaning, or cross-domain behaviour of IES Top or IES Core.
+Routine maintenance may be handled by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers where it does not materially alter the structure, meaning, or cross-domain behaviour of IES Top or IES Core.
 
 Material changes must follow the relevant proposal, review, and approval process.
 
