@@ -121,7 +121,7 @@ Each release should have a responsible group or function.
 Depending on the repository or artefact, this may be:
 
 * a Domain Working Group
-* the Common Ontology Maintainers
+* L0 or L1 Ontology Maintainers
 * Platform and Communications Management
 * the Steering Group
 * a repository-level maintainer group
@@ -142,9 +142,9 @@ Domain Working Groups are responsible for domain-driven releases within their do
 
 They should ensure that domain-driven ontology content is appropriate, aligned with IES Top and IES Core, and supported by the necessary domain review.
 
-### Common Ontology Maintainers
+### IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers
 
-Common Ontology Maintainers are responsible for releases affecting IES Top and IES Core.
+IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers are responsible for releases affecting IES Top and IES Core.
 
 They should ensure that technical review has been completed, material changes have followed the appropriate proposal and approval route, and release artefacts are technically coherent.
 
@@ -244,7 +244,7 @@ Release review should be proportionate to the release impact.
 Review may involve:
 
 * the responsible Domain Working Group
-* Common Ontology Maintainers
+* IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers
 * Repository Maintainers
 * Platform and Communications Management
 * the Steering Group
