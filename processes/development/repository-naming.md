@@ -61,7 +61,7 @@ The repository name is:
 ies-top
 ```
 
-IES Top is maintained by the Common Ontology Maintainers.
+IES Top is maintained by the L0 Ontology Maintainers.
 
 ---
 
@@ -77,7 +77,7 @@ The repository name is:
 ies-core
 ```
 
-IES Core is maintained by the Common Ontology Maintainers.
+IES Core is maintained by the L1 Ontology Maintainers.
 
 ---
 
