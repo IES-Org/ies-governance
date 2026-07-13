@@ -98,7 +98,7 @@ Development may arise through several routes, including:
 * issues raised in the relevant repository
 * proposals made through the proposal process
 * domain-driven development led by a Domain Working Group
-* maintenance activity by Common Ontology Maintainers or Repository Maintainers
+* maintenance activity by IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers or Repository Maintainers
 * governance or documentation updates
 * release preparation activity
 
@@ -118,11 +118,11 @@ Where domain-driven development identifies a required change to IES Top or IES C
 
 ## Development Affecting IES Top or IES Core
 
-IES Top and IES Core are maintained by the Common Ontology Maintainers.
+IES Top and IES Core are maintained by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers.
 
 Changes affecting IES Top or IES Core require particular care because they may affect multiple domain-driven repositories.
 
-Routine maintenance may be handled by the Common Ontology Maintainers where it does not materially alter the structure, meaning, or cross-domain behaviour of IES Top or IES Core.
+Routine maintenance may be handled by the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers where it does not materially alter the structure, meaning, or cross-domain behaviour of IES Top or IES Core.
 
 Material changes must follow the relevant proposal, review, and approval process. Changes with strategic, cross-domain, high-impact, or disputed implications must be escalated to the Steering Group.
 
