@@ -118,7 +118,7 @@ Consider whether the proposal affects:
 * domain-driven repositories
 * administrative repositories
 * Domain Working Groups
-* Common Ontology Maintainers
+* L0 or L1 Ontology Maintainers
 * Platform and Communications Management
 * Repository Maintainers
 * repository naming
@@ -165,7 +165,7 @@ Select all that apply.
 
 ```text
 [Relevant Domain Working Group]
-[Common Ontology Maintainers]
+[L0 or L1 Ontology Maintainers]
 [Repository Maintainers]
 [Platform and Communications Management]
 [Steering Group]
