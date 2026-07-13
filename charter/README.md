@@ -30,7 +30,7 @@ It covers the governance groups, individual roles, responsibilities, contributio
 
 IES governance includes, for example, the governance of:
 
-* IES Common
+* IES Top (Layer 0) and IES Core (Layer 1)
 * domain-driven repositories
 * administrative repositories
 * governance groups and individual roles
@@ -74,7 +74,7 @@ Changes should be assessed for their impact on existing ontology structures, dom
 
 ### Proportional Governance
 
-Minor, low-risk changes should not require the same level of governance as changes that affect IES Common, cross-domain alignment, public release, or long-term strategic direction. Governance should provide appropriate control without creating unnecessary burden.
+Minor, low-risk changes should not require the same level of governance as changes that affect IES Top (Layer 0) and IES Core (Layer 1), cross-domain alignment, public release, or long-term strategic direction. Governance should provide appropriate control without creating unnecessary burden.
 
 ### Traceability
 
@@ -100,9 +100,9 @@ The governance roles are defined in detail in the Roles section. At a high level
 
 ---
 
-### IES Common and Domain-Driven Development
+### IES Top (Layer 0) and IES Core (Layer 1) and Domain-Driven Development
 
-IES Top and IES Core together form IES Common, the shared foundation used across domain-driven development. Domain-driven repositories build from, extend, or align with IES Common, while domain-driven extensions are governed directly by the relevant Domain Working Groups. This model allows domains to develop material relevant to their own needs while preserving common structures across IES.
+IES Top and IES Core together form IES Top (Layer 0) and IES Core (Layer 1), the shared foundation used across domain-driven development. Domain-driven repositories build from, extend, or align with IES Top (Layer 0) and IES Core (Layer 1), while domain-driven extensions are governed directly by the relevant Domain Working Groups. This model allows domains to develop material relevant to their own needs while preserving common structures across IES.
 
 ---
 
@@ -114,7 +114,7 @@ In practice, this means:
 
 * routine repository-level activity should normally be managed by the relevant repository maintainers
 * domain-specific development should normally be led by the relevant Domain Working Group
-* changes affecting IES Common should involve the Common Ontology Maintainers and, where necessary, the Steering Group
+* changes affecting IES Top (Layer 0) and IES Core (Layer 1) should involve the Common Ontology Maintainers and, where necessary, the Steering Group
 * strategic, cross-domain, high-impact, or disputed matters should be escalated to the Steering Group
 
 ---
