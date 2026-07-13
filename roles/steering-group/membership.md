@@ -70,11 +70,11 @@ Advisory Members should have a strong understanding of:
 * 4D modelling principles
 * IES Top
 * IES Core
-* IES Common
+* IES Top (Layer 0) and IES Core (Layer 1)
 * domain-driven extensions
 * the impact of proposed changes on technical coherence and interoperability
 
-Advisory Members are not appointed to represent their Domain Working Group. They provide technical advice, identify implications for IES Common and domain-driven development, and support informed decision-making by the Steering Group.
+Advisory Members are not appointed to represent their Domain Working Group. They provide technical advice, identify implications for IES Top (Layer 0) and IES Core (Layer 1) and domain-driven development, and support informed decision-making by the Steering Group.
 
 Both Advisory Member positions cannot be filled by people from the same Domain Working Group.
 
