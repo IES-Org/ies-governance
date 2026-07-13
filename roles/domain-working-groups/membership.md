@@ -128,7 +128,7 @@ Participants should:
 
 * contribute relevant domain expertise
 * support technically coherent domain-driven development
-* consider alignment with IES Common
+* consider alignment with IES Top (Layer 0) and IES Core (Layer 1)
 * review proposals and materials where appropriate
 * declare relevant conflicts of interest
 * respect the governance and development processes for IES
