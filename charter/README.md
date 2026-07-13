@@ -114,7 +114,7 @@ In practice, this means:
 
 * routine repository-level activity should normally be managed by the relevant repository maintainers
 * domain-specific development should normally be led by the relevant Domain Working Group
-* changes affecting IES Top (Layer 0) and IES Core (Layer 1) should involve the Common Ontology Maintainers and, where necessary, the Steering Group
+* changes affecting IES Top (Layer 0) and IES Core (Layer 1) should involve the IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers and, where necessary, the Steering Group
 * strategic, cross-domain, high-impact, or disputed matters should be escalated to the Steering Group
 
 ---
