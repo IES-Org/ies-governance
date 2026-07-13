@@ -55,7 +55,7 @@ Offboarding may be triggered by:
 * a repository changing status
 * a governance, security, operational, or conduct concern
 * replacement of a Domain Working Group Representative
-* replacement or removal of a Common Ontology Maintainer
+* replacement or removal of a L0 or L1 Ontology Maintainer
 * replacement or removal of a Platform and Communications role-holder
 * a request from an authorised governance role-holder
 
@@ -81,7 +81,7 @@ An offboarding request may be submitted by one of the following:
 
 Where access is associated with a specific Domain Working Group, the request should normally come from the relevant Domain Working Group Chair or Representative.
 
-Where access is associated with platform administration, Common Ontology Maintainer responsibilities, or elevated permissions, the request should be routed with appropriate visibility to the Steering Group or Platform and Communications role-holders.
+Where access is associated with platform administration, L0 or L1 Ontology Maintainer responsibilities, or elevated permissions, the request should be routed with appropriate visibility to the Steering Group or Platform and Communications role-holders.
 
 ---
 
@@ -95,7 +95,7 @@ This may include:
 * the relevant Domain Working Group Representative
 * IES GitHub Organisation Administrators
 * Platform and Communications role-holders
-* Common Ontology Maintainers, where access relates to IES Top or IES Core
+* L0 or L1 Ontology Maintainers, where access relates to IES Top or IES Core
 * the Steering Group, where the access is elevated or governance-significant
 
 This supports shared awareness of access changes and helps ensure that offboarding decisions are transparent and auditable.
@@ -275,7 +275,7 @@ Offboarding may be required where:
 * a Domain Working Group Chair leaves that role
 * a Domain Working Group Representative is replaced
 * a Steering Group Advisory Member leaves that role
-* a Common Ontology Maintainer leaves that role
+* a L0 or L1 Ontology Maintainer leaves that role
 * a Platform and Communications role-holder leaves that role
 * a Repository Maintainer no longer maintains a repository
 * a Domain Working Group becomes inactive
@@ -356,7 +356,7 @@ This may include:
 * Steering Group Voting Members
 * Steering Group Advisory Members
 * Domain Working Group official role-holders
-* Common Ontology Maintainers
+* L0 or L1 Ontology Maintainers
 * Platform and Communications role-holders
 * repository-level maintainer files
 * repository README files
