@@ -48,11 +48,11 @@ Branch protection may require pull request review, status checks, restricted mer
 
 ---
 
-## Common Ontology Maintainer
+## IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers
 
-A Common Ontology Maintainer is an individual appointed by majority vote of the Steering Group to maintain IES Top and IES Core.
+A IES Top (Layer 0) Ontology Maintainer and IES Core (Layer 1) Ontology Maintainer is an individual appointed by majority vote of the Steering Group to maintain IES Top and IES Core.
 
-Common Ontology Maintainers are responsible for:
+IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainerss are responsible for:
 
 * maintaining IES Top and IES Core
 * reviewing proposed changes affecting IES Top and IES Core
@@ -62,7 +62,7 @@ Common Ontology Maintainers are responsible for:
 
 Their authority is limited to the scope defined in the governance model and does not extend to domain-driven repositories or strategic decision-making.
 
-The Common Ontology Maintainer group must include at least one Public Sector Representative.
+The IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers group must include at least one Public Sector Representative.
 
 ---
 
@@ -189,42 +189,19 @@ IES supports consistent information exchange across organisations, systems, asse
 
 ---
 
-## IES Common
-
-IES Common is the conceptual grouping of IES Top and IES Core.
-
-There is no separate IES Common repository. IES Common refers collectively to:
-
-* `ies-top`
-* `ies-core`
+## IES Top (Layer 0) and IES Core (Layer 1)
 
 Together, these repositories provide the shared ontology foundation used across domain-driven development within IES.
 
 Changes to IES Top or IES Core may have downstream impact on domain-driven repositories and therefore require appropriate governance and review.
 
-IES Common does not govern or manage domain ontologies, which remain under the responsibility of their respective Domain Working Groups.
-
----
-
-## IES Core
-
-IES Core is the single core ontology repository within IES.
-
-IES Core is maintained in the `ies-core` repository and forms part of IES Common.
+IES Top (Layer 0) maintainers and IES Core (Layer 1) maintainers do not govern or manage domain ontologies, which remain under the responsibility of their respective Domain Working Groups.
 
 ---
 
 ## IES GitHub Organisation
 
 The IES GitHub Organisation is the GitHub organisation used as the authoritative source for IES governance documentation, approved development activity, ontology content, and official releases.
-
----
-
-## IES Top
-
-IES Top is the single top-level ontology repository within IES.
-
-IES Top is maintained in the `ies-top` repository and forms part of IES Common.
 
 ---
 
@@ -248,7 +225,7 @@ Within IES, Lazy Consensus may be used where explicitly permitted by the relevan
 
 A Maintainer is a person with responsibility for maintaining a repository, ontology artefact, platform function, or other defined area of IES.
 
-The term must be used carefully because Common Ontology Maintainers and Repository Maintainers are distinct roles.
+The term must be used carefully because IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainerss and Repository Maintainers are distinct roles.
 
 ---
 
@@ -399,7 +376,7 @@ Technical Support and Maintenance is the area of IES governance covering technic
 
 It includes:
 
-* Common Ontology Maintainers
+* IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainerss
 * Repository Maintainers
 * Platform and Communications Management
 
