@@ -75,20 +75,15 @@ Domain Working Group membership is not published in full. The governance documen
 
 Technical support and maintenance functions ensure the technical integrity, continuity, and accessibility of IES.
 
-This area distinguishes between several different types of maintenance responsibility. In particular, it distinguishes between the tightly governed role of maintaining the Common ontology, IES Top and IES Core, and the broader role of maintaining individual repositories.
+This area distinguishes between several different types of maintenance responsibility. In particular, it distinguishes between the tightly governed role of maintaining IES Top and IES Core, and the broader role of maintaining individual repositories.
 
 * [Technical Support and Maintenance Overview](./roles/technical-support-and-maintenance/overview.md)
 
-##### Common Ontology Maintainers
+##### IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers
 
-The Common Ontology Maintainers are responsible for maintaining **IES Top** and **IES Core**.
+The IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers are responsible for maintaining **IES Top** and **IES Core**.
 
-Together, IES Top and IES Core form **IES Common**. These repositories provide the common foundation on which domain-driven ontology development depends. Changes to IES Top or IES Core can affect all domain extensions and are therefore subject to stricter governance.
-
-* [Common Ontology Maintainers Overview](./roles/technical-support-and-maintenance/common-ontology-maintainers/overview.md)
-* [Common Ontology Maintainer Membership](./roles/technical-support-and-maintenance/common-ontology-maintainers/membership.md)
-* [Current Common Ontology Maintainers](./roles/technical-support-and-maintenance/common-ontology-maintainers/current-common-ontology-maintainers.md)
-* [Past Common Ontology Maintainers](./roles/technical-support-and-maintenance/common-ontology-maintainers/past-common-ontology-maintainers.md)
+These repositories provide the common foundation on which domain-driven ontology development depends. Changes to IES Top or IES Core can affect all domain extensions and are therefore subject to stricter governance.
 
 ##### Repository Maintainers
 
@@ -177,16 +172,13 @@ IES repositories are organised into four broad categories:
    Repositories managed through domain-driven development, normally aligned to a specific domain.
 
 4. **Administrative repositories**
-   Repositories containing governance, management, planning, coordination, or informational material relating to IES. These repositories do not contain ontology content and are not part of IES Common or any domain-driven ontology extension. They may nevertheless be authoritative for the governance, operation, roadmap, or management of IES.
+Repositories containing governance, management, planning, coordination, or informational material relating to IES. These repositories do not contain ontology content and are not part of IES Top (Layer 0) and IES Core (Layer 1) or any domain-driven ontology extension. They may nevertheless be authoritative for the governance, operation, roadmap, or management of IES.
 
-IES Top and IES Core together form **IES Common**. They provide the common foundation used across all domains. Domain-driven repositories build from, extend, or align with IES Common.
-
-Maintainer details for individual repositories are published in the relevant repository’s maintainer file. Common Ontology Maintainer details are maintained centrally because IES Top and IES Core are subject to stricter governance.
+Maintainer details for individual repositories are published in the relevant repository’s maintainer file. IES Top (Layer 0) Ontology Maintainers and IES Core (Layer 1) Ontology Maintainers details are maintained centrally because IES Top and IES Core are subject to stricter governance.
 
 **Contents:**
 
 * [Ontology Index Overview](./ontology-index/README.md)
-* [IES Common](./ontology-index/ies-common.md)
 * [Domain Repositories](./ontology-index/domain-repositories.md)
 * [Administrative Repositories](./ontology-index/administrative-repositories.md)
 
