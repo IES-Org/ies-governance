@@ -28,8 +28,8 @@ It explains the purpose and scope of governance, how responsibilities are distri
 
 **Contents:**
 
-* [Principles](./charter/principles.md)
-* [Governance Model](./charter/governance-model.md)
+* [Principles](./charter/README.md#principles)
+* [Governance Model](./charter/README.md#governance-model)
 
 ---
 
