@@ -94,9 +94,9 @@ The model is designed to balance strategic oversight, domain expertise, technica
 
 The governance roles are defined in detail in the Roles section. At a high level, IES governance includes:
 
-* **Steering Group** — provides strategic oversight and governance direction
-* **Domain Working Groups** — lead domain-driven development and provide subject matter expertise
-* **Technical Support and Maintenance** — supports technical integrity, repository management, and continuity of IES development
+* **Steering Group** - provides strategic oversight and governance direction
+* **Domain Working Groups** - lead domain-driven development and provide subject matter expertise
+* **Technical Support and Maintenance** - supports technical integrity, repository management, and continuity of IES development
 
 ---
 

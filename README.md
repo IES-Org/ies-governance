@@ -1,4 +1,7 @@
-# IES Governance
+# <img src="./assets/images/IES-logo-dark.png" alt="IES Logo" width="50" align="absmiddle"> IES Governance
+
+**Repository:** `ies-governance`  
+**Description:** `Governance records, roadmaps, decisions, and administrative artefacts for the IES Steering Group`
 
 This repository defines the governance framework for IES, the Information Exchange Standard.
 
@@ -6,10 +9,10 @@ It establishes how IES is guided, developed, maintained, and released. It also p
 
 Governance-related information is organised into four core areas:
 
-* **Charter** — the purpose, principles, and overall governance model
-* **Roles** — the groups and individuals responsible for governing, developing, and maintaining IES
-* **Processes** — the mechanisms through which changes are proposed, developed, managed, and released
-* **Ontology Index** — the index of IES repositories and their maintainers
+* **Charter** - the purpose, principles, and overall governance model
+* **Roles** - the groups and individuals responsible for governing, developing, and maintaining IES
+* **Processes** - the mechanisms through which changes are proposed, developed, managed, and released
+* **Ontology Index** - the index of IES repositories and their maintainers
 
 A shared glossary is also provided to support consistent interpretation across the governance framework.
 
@@ -201,3 +204,39 @@ A shared glossary of governance terms is maintained to ensure consistency across
 * Consult the **Glossary** for definitions of key terms
 
 This structure is designed to be clear, navigable, and extensible as IES evolves.
+
+## Acknowledgements
+
+This repository has benefited from collaboration with various organisations. For a list of acknowledgments, see [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a list of changes in each release.
+
+## Contributions and Feedback
+
+We welcome:
+
+- Feedback and structured suggestions
+- Bug reports and clarifications
+- Requests for extensions or additional documentation
+
+Please see:
+
+- [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for expected behaviour and reporting concerns
+- [MAINTAINERS.md](MAINTAINERS.md) for maintainer contact information
+
+## Security and Responsible Disclosure
+
+We take security seriously. If you believe you have found a security vulnerability in this repository, please follow our responsible disclosure process outlined in [SECURITY.md](SECURITY.md).
+
+---
+
+**Maintained as part of the Information Exchange Standard initiative.**
+
+© Crown Copyright. This work forms part of the Information Exchange Standard initiative and is currently under the custodianship of the UK's Department for Business, Innovation, Science and Trade (BIST), acting on behalf of a cross-government group of stakeholders.
+  
+Licensed under the Open Government Licence v3.0.
+
+For full licensing terms, see [OGL_LICENSE.md](OGL_LICENSE.md).
