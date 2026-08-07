@@ -1,4 +1,4 @@
-### Type of Change
+# Type of Change
 
 Select all that apply:
 
@@ -10,7 +10,7 @@ Select all that apply:
 - [ ] Documentation
 - [ ] Other
 
-### Description
+# Description
 
 <!-- 
 GUIDANCE:
