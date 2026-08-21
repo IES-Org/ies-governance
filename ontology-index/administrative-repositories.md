@@ -29,6 +29,8 @@ This document does not maintain a central list of Repository Maintainers. Reposi
 | Repository       | Area of Responsibility | Repository Purpose                                                   | Responsible Group or Function | Repository-Level Maintainer Information | Status |
 | :--------------- | :--------------------- | :------------------------------------------------------------------- | :---------------------------- | :-------------------------------------- | :----- |
 | `ies-governance` | Governance             | This repository defines the governance framework for IES, the Information Exchange Standard. | Steering Group                | Maintained in the relevant repository   | Active |
+| `ies-archetypes` | Technical Support and Maintenance   | This repository contains administrative material to support with new IES repository creation. | Platform and Communications Team | Maintained in [current platform and communications team](../roles/technical-support-and-maintenance/platform-and-communications/current-platform-and-communications-team.md) documentation | Active |
+| `ies-platco-resources` | Technical Support and Maintenance | This repository houses automation resources used by the IES Platform and Communications team. | Platform and Communications Team | Maintained in the relevant repository   | Active |
 
 ---
 

@@ -17,6 +17,12 @@ For ontology development, Semantic Versioning is interpreted as follows:
 
 ---
 
+## [1.0.1]
+
+### Added
+
+- Documented `ies-archetypes` and `ies-platco-resources` administrative repositories.
+
 ## [1.0.0]
 
 ### Added
