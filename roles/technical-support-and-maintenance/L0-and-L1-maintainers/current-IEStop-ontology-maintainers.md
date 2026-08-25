@@ -11,7 +11,7 @@ IES Top Ontology Maintainers are appointed by majority vote of the Steering Grou
 | Name            | Organisation    | GitHub Username | Areas of Expertise | Start Date      |
 | --------------- | --------------- | --------------- | ------------------ | --------------- |
 | Chris Partridge | BORO Solutions |  chrispartridge1091 | IES Top, IES Possibilia    | 30 July 2026 |
-| Nigel 81562 | GCHQ |  nigel81562 | IES Top, IES Possibilia    | 30 July 2026 |
+| Nigel 81562 | HMG |  nigel81562 | IES Top, IES Possibilia    | 30 July 2026 |
 | Adreas Cola | Telicent |  afizzycola | IES Top, IES Possibilia    | 30 July 2026 |
 
 ## Notes

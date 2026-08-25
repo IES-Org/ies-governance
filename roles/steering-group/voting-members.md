@@ -17,7 +17,7 @@ Domain Working Group Chairs and Domain Working Group Representatives are Voting 
 | :------------------- | :-------------- | :---------------------------------- | :-------------- | :-------------- | :-------------- |
 | ENV      | Alex Luck | Domain Working Group Chair          | Department for Business, Innovation, Science and Technology | ndtppd | 16/07/2025 |
 | ENV      | Alex Atudosie | Domain Working Group Representative | Department for Business, Innovation, Science and Technology | ndtppm | 16/07/2025 |
-| SDNP      | Alex A | Domain Working Group Chair | GCHQ | GCHQDeveloper010 | 16/07/2025 |
+| SDNP      | Alex A | Domain Working Group Chair | HMG | GCHQDeveloper010 | 16/07/2025 |
 | SDNP      | Paul Lacey | Domain Working Group Representative | Dstl | NA | 16/07/2025 |
 
 ---
