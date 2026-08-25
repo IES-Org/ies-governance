@@ -27,7 +27,7 @@ The record supports transparency, continuity, and traceability of Steering Group
 
 | Name            | Domain Working Group | Organisation    | GitHub Username | Term Start      | Term End        |
 | :-------------- | :------------------- | :-------------- | :-------------- | :-------------- | :-------------- |
-| Alex A | SDNP      | GCHQ | GCHQDeveloper010 | 16/07/2025 | 31/03/2026 |
+| Alex A | SDNP      | HMG | GCHQDeveloper010 | 16/07/2025 | 31/03/2026 |
 
 ---
 

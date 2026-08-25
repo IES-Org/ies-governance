@@ -14,7 +14,7 @@ Both Advisory Member positions cannot be filled by people from the same Domain W
 
 | Advisory Member | Domain Working Group | Organisation    | GitHub Username | Start Date      |
 | :-------------- | :------------------- | :-------------- | :-------------- | :-------------- |
-| Nigel 81562 | SDNP      | GCHQ | nigel81562 | 15/08/2025 |
+| Nigel 81562 | SDNP      | HMG | nigel81562 | 15/08/2025 |
 | Dave Dyke | ENV      | Agilit Ltd | aigora-de | 15/08/2025 |
 
 ---

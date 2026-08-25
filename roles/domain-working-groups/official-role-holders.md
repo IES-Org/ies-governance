@@ -18,7 +18,7 @@ Domain Working Group Chairs and Domain Working Group Representatives are Voting 
 | Domain Working Group | Chair           | Chair Organisation | Chair GitHub Username | Representative  | Representative Organisation | Representative GitHub Username | Chair Start Date      |
 | :------------------- | :-------------- | :----------------- | :-------------------- | :-------------- | :-------------------------- | :----------------------------- | :-------------- |
 | Environment      | Alex Luck | Department for Business, Innovation, Science and Trade    | ndtppd       | Alex Atudosie | Department for Business, Innovation, Science and Trade             | ndtppm                | 16/07/2025 |
-| Security, Defence and National Policing      | Alex A | GCHQ    | GCHQDeveloper010       | Paul Lacey | Dstl             | NA                | 16/07/2025 |
+| Security, Defence and National Policing      | Alex A | HMG    | GCHQDeveloper010       | Paul Lacey | Dstl             | NA                | 16/07/2025 |
 
 ---
 

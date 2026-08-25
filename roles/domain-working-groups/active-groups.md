@@ -13,7 +13,7 @@ Full Domain Working Group membership is not published centrally in this governan
 | Domain Working Group | Domain Scope    | Lead Organisation | Related Repositories | Contact Route   | Status |
 | :------------------- | :-------------- | :---------------- | :------------------- | :-------------- | :----- |
 | Environment      | Natural and built environment, including related cross-domain extension needs | Department for Business, Innovation, Science and Technology   | ies-env-building      | ies-env@informationexchangestandard.org | Active |
-| Security, Defence and National Policing      | Security, defence and national policing, including foundational and cross-domain IES development | GCHQ and DSTL   | tbc      | ies-sdnp@informationexchangestandard.org | Active | 
+| Security, Defence and National Policing      | Security, defence and national policing, including foundational and cross-domain IES development | HMG and DSTL   | tbc      | ies-sdnp@informationexchangestandard.org | Active | 
 
 ---
 

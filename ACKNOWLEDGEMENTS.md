@@ -11,7 +11,7 @@ Over time, the following organisations have provided technical expertise, develo
 
 - Department for Business, Innovation, Science and Trade (BIST - custodian of this repository)
 - Defence Science and Technology Laboratory (Dstl)
-- GCHQ
+- HMG
 
 We are grateful for the collaboration that has helped shape this repository.
 
