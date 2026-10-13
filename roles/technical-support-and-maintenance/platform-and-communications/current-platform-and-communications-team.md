@@ -15,6 +15,7 @@ This function includes the GitHub Organisation Custodian and any supporting Plat
 | Alex Atudosie | Department for Business, Innovation, Science and Trade | Platform and Communications Support       | ndtppm | GitHub organisation administration, repository settings, access management, website development | 5/3/2025 |
 | Alex Luck | Department for Business, Innovation, Science and Trade | Platform and Communications Support | ndtppd | GitHub organisation administration, repository settings, access management, website development           | 5/3/2025 |
 | James Cruddas | Informed Solutions | GitHub Administrator | cruddasj | GitHub Administrator           | 5/8/2026 |
+| Syed Awsaf | Informed Solutions | GitHub Administrator | cruddasj | GitHub Administrator           | 13/10/2026 |
 
 ---
 
