@@ -56,7 +56,7 @@ This arrangement allows domains to develop material relevant to their own needs 
 
 | Repository | Repository Type | Maintained By               | Repository-Level Maintainer Information |
 | :--------- | :-------------- | :-------------------------- | :-------------------------------------- |
-| `ies-top`  | IES Top         | L0 Ontology Maintainers     | Maintained in the `ies-top` repository  |
-| `ies-core` | IES Core        | L1 Ontology Maintainers     | Maintained in the `ies-core` repository |
+| `ies-top`  | IES L0          | L0 Ontology Maintainers     | Maintained in the `ies-top` repository  |
+| `ies-core` | IES L1          | L1 Ontology Maintainers     | Maintained in the `ies-core` repository |
 
 ---
